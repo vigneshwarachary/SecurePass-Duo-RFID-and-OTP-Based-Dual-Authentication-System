@@ -144,4 +144,5 @@ ISR (EINT1 - Admin Mode):
 <img width="924" height="623" alt="Major_project_BD" src="https://github.com/user-attachments/assets/df4583a4-1b21-479f-89b7-28b0e3b08c8c" />
 
 3. Access Logging with RTC Timestamps: Expand the system to log every RFID scan attempt (valid or invalid) with an RTC timestamp stored to an external EEPROM or   SD card for audit purposes.  
-<img width="924" height="623" alt="Major_project_BD" src="https://github.com/user-attachments/assets/a3ae09b0-0885-4446-bec8-1c93bc778810" />
+<img width="924" height="623" alt="Major_project_BD" src="https://github.com/user-attachments/assets/6c8dfe57-adc2-4b5f-b9f8-e0289fbe9821" />
+
