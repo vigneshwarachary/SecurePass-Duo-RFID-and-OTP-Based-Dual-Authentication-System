@@ -140,5 +140,7 @@ ISR (EINT1 - Admin Mode):
 ## Future Improvements  
 
 1. Remote Monitoring & Connectivity: Integrate a Wi-Fi or Bluetooth module to allow caretakers to monitor door access logs or trigger the door remotely via a   smartphone app.  
-2. Intelligent OTP Delivery: Improve OTP security by using a stronger algorithm (e.g., TOTP standard) and adding an encrypted delivery channel instead of plain   SMS.  
+2. Intelligent OTP Delivery: Improve OTP security by using a stronger algorithm (e.g., TOTP standard) and adding an encrypted delivery channel instead of plain   SMS.
+<img width="924" height="623" alt="Major_project_BD" src="https://github.com/user-attachments/assets/df4583a4-1b21-479f-89b7-28b0e3b08c8c" />
+
 3. Access Logging with RTC Timestamps: Expand the system to log every RFID scan attempt (valid or invalid) with an RTC timestamp stored to an external EEPROM or   SD card for audit purposes.  
